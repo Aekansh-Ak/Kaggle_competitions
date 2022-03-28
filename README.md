@@ -1,2 +1,1 @@
-# Kaggle_competitions
-All my kaggle competitions submissions. 
+# All my kaggle competitions submissions. 
